@@ -46,7 +46,7 @@ public class PinRunContinuous {
 	@Test
 	public void testRunContinuousSize() {
 		
-		assertEquals(panel.getSize(), 16);
+		assertEquals(panel.getCellsSize(), 16);
 	}
 	
 	
